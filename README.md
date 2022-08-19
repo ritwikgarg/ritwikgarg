@@ -1,3 +1,6 @@
+Hey ![image](https://user-images.githubusercontent.com/81905343/185645738-4d91549b-92fc-4a83-8363-4c66cbce4135.png), I'm [Ritwik!](https://www.linkedin.com/in/ritwikgarg/)
+
+
 - 👋 Hi, I’m @ritwikgarg
 - 👀 I’m interested in Web Development and Competitive Programming
 - 🌱 I’m currently learning Web Development
