@@ -1,4 +1,4 @@
-Hey ![image](https://user-images.githubusercontent.com/81905343/185645738-4d91549b-92fc-4a83-8363-4c66cbce4135.png), I'm [Ritwik!](https://www.linkedin.com/in/ritwikgarg/)
+Hey ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/bEAlI.gif) I'm [Ritwik!](https://www.linkedin.com/in/ritwikgarg/)
 
 
 - 👋 Hi, I’m @ritwikgarg
