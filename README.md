@@ -1,4 +1,4 @@
-Hey ![Alt Text](https://tenor.com/bEAlI.gif) I'm [Ritwik!](https://www.linkedin.com/in/ritwikgarg/)
+Hey ![Alt Text](https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836) I'm [Ritwik!](https://www.linkedin.com/in/ritwikgarg/)
 
 
 - 👋 Hi, I’m @ritwikgarg
