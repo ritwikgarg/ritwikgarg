@@ -1,3 +1,5 @@
+![banner final](https://user-images.githubusercontent.com/81905343/185743729-c77ae227-e807-4df5-a4bf-3e2a2c010a11.jpg)
+
 Hey ![Alt Text](https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836) I'm [Ritwik!](https://www.linkedin.com/in/ritwikgarg/)
 
 
