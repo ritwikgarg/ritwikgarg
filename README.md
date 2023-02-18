@@ -1,4 +1,4 @@
-![Ritwik Garg](https://user-images.githubusercontent.com/81905343/185743752-5a87c529-f94b-4cca-aed2-102a2fd58a34.png)
+
 
 <h1 align="center">Hi <img alt="Coding" height="40" width="40" src="https://raw.githubusercontent.com/AbdallahHemdan/AbdallahHemdan/master/wave.gif" >, I'm Ritwik</h1>
 <h3 align="center">A passionate Computer Science Engineering student from India</h3>
