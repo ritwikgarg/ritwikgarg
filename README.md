@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img alt="Coding" height="40" width="40" src="https://raw.githubusercontent.com/AbdallahHemdan/AbdallahHemdan/master/wave.gif" >, I'm Ritwik</h1>
-<h3 align="center">A passionate Computer Science Engineering student from India</h3>
+<h3 align="center">A Computer Science Engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwikgarg&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikgarg" /> </p>
 
