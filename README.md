@@ -1,17 +1,13 @@
 
 
 <h1 align="center">Hi <img alt="Coding" height="40" width="40" src="https://raw.githubusercontent.com/AbdallahHemdan/AbdallahHemdan/master/wave.gif" >, I'm Ritwik</h1>
-<h3 align="center">A Computer Science Engineering student from India</h3>
+<h3 align="center">A B.Tech CS Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwikgarg&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikgarg" /> </p>
 
-- 🎓 I'm currently pursuing my **Bachelor of Technology (B.Tech/B.E) from [PDEU](https://www.pdpu.ac.in/)**
+- 🎓 I'm an incoming **MCS student @ UIUC for Fall'25**
 
-- 🌱 I’m currently learning **Full-stack Web Development and Machine Learning using Python**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 📫 You can reach me at **gargritwik08@gmail.com**
+- 📫 You can reach me at **ritwikgarg.applications@gmail.com**
 
 - ⚡ Fun fact **I like Piña colada's**
 
