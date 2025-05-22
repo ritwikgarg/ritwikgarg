@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Creative Projects and Research in Gen AI (Audio, CV, NLP), Game Dev and Low level software**
 
-- 💬 Ask me about my favourite **Youtube Channels** and **Sci-fi movies**!
+- 💬 Ask me about my favourite **CS-related Youtube Channels** and **Sci-fi movies**!
 
 - 📫 How to reach me: Both **ritwikg3@illinois.edu** or **ritwikgarg.applications@gmail.com** are good!
 
